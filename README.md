@@ -20,5 +20,3 @@
 
 🔹 Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías.
 🔹 Puedes ver algunos de mis proyectos en mi repositorio de GitHub.
-
-¡Gracias por visitar mi perfil! 😃🚀
