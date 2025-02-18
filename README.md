@@ -16,7 +16,5 @@
 
 🎨 Amante del diseño web y la experiencia de usuario
 
-🚀 Proyectos y Contribuciones:
-
 🔹 Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías.
 🔹 Puedes ver algunos de mis proyectos en mi repositorio de GitHub.
