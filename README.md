@@ -1,21 +1,21 @@
-👋 Hola, soy Máximo Fuentes!
+# Máximo Fuentes
 
-🌍 Sobre mí:
+## 🌍 Sobre mí
 
-  📍 Mendoza, Argentina 🇦🇷
+- 📍 **Ubicación:** Mendoza, Argentina 🇦🇷
+- 🎂 **Edad:** 20 Años
+- 🎓 **Estudios:** Licenciatura en Informática y Desarrollo de Software en la Universidad del Aconcagua, Mendoza.
 
-  🎂 20 Años
+## 💻 Tecnologías
 
-  🎓 Estudiando Licenciatura en Informática y Desarrollo de Software en la Universidad del Aconcagua, Mendoza.
+- 🏗️ **Especialización:** HTML, CSS y JavaScript
+- ⚛️ **Framework Principal:** React.js
 
-💻 Tecnologías:
+## 🎨 Intereses
 
-  🏗️ Especializado en HTML, CSS y JavaScript
+- Amante del diseño web y la experiencia de usuario.
+- Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías.
 
-  ⚛️ React.js como framework principal
+## 🔹 Proyectos
 
-🎨 Amante del diseño web y la experiencia de usuario
-
-🔹 Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías.
-
-🔹 Puedes ver algunos de mis proyectos en mi repositorio de GitHub.
+- Puedes ver algunos de mis proyectos en mi [repositorio de GitHub](#).
