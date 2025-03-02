@@ -4,7 +4,7 @@
 
 - 📍 **Ubicación:** Mendoza, Argentina 🇦🇷
 - 🎂 **Edad:** 20 Años
-- 🎓 **Estudios:** Licenciatura en Informática y Desarrollo de Software en la Universidad del Aconcagua, Mendoza.
+- 🎓 **Estudios:** Licenciatura en Informática y Desarrollo de Software en la Universidad del Aconcagua, Mendoza. (1er año)
 
 ## 💻 Tecnologías
 
