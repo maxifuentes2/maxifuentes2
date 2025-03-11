@@ -6,9 +6,9 @@
 - 🎂 **Edad:** 20 Años
 - 🎓 **Estudios:**
 
-   Licenciatura en Informática y Desarrollo de Software en la Universidad del Aconcagua, Mendoza. (1er año 2025)
+   Licenciatura en Informática y Desarrollo de Software en la Universidad del Aconcagua, Mendoza. (2025 - Actualidad)
    
-   CoderHouse (Full Stack Developer 2024-2025)
+   CoderHouse (Full Stack Developer 2024 - 2025)
 
 ## 💻 Tecnologías
 
