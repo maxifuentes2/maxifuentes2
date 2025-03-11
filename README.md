@@ -5,6 +5,7 @@
 - 📍 **Ubicación:** Mendoza, Argentina 🇦🇷
 - 🎂 **Edad:** 20 Años
 - 🎓 **Estudios:**
+
    Licenciatura en Informática y Desarrollo de Software en la Universidad del Aconcagua, Mendoza. (1er año)
    CoderHouse (Full Stack Developer)
 
