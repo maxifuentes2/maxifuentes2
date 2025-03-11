@@ -24,4 +24,6 @@
 
 - Curso de coderhouse de [Diseño Web](https://github.com/maxifuentes2/proyecto-final-fuentes).
 
+- Curso de coderhouse de [Java Script](https://github.com/maxifuentes2/proyectoFinalFuentes).
+
 - Curso de coderhouse de [React Js](https://github.com/maxifuentes2/proyecto-final-fuentes-reactjs).
