@@ -22,4 +22,4 @@
 
 ## 🔹 Proyectos
 
-- Puedes ver algunos de mis proyectos en mi [repositorio de GitHub](https://github.com/maxifuentes2/proyecto-final-fuentes-reactjs).
+- Proyecto de coderhouse de [React Js](https://github.com/maxifuentes2/proyecto-final-fuentes-reactjs).
