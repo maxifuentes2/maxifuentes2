@@ -12,8 +12,7 @@
 
 ## 💻 Tecnologías
 
-- 🏗️ **Especialización:** HTML, CSS y JavaScript
-- ⚛️ **Framework Principal:** React.js
+- 🔧 **Tecnologías:** HTML, CSS, JavaScript y React.js
 
 ## 🎨 Intereses
 
