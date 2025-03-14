@@ -12,7 +12,7 @@
 
 ## 💻 Tecnologías
 
-- 🔧 **Tecnologías:** HTML, CSS, JavaScript y React.js
+- HTML, CSS, JavaScript y React.js
 
 ## 🎨 Intereses
 
