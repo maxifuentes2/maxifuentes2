@@ -26,3 +26,7 @@
 - Curso de coderhouse de [Java Script](https://github.com/maxifuentes2/proyectoFinalFuentes).
 
 - Curso de coderhouse de [React Js](https://github.com/maxifuentes2/proyecto-final-fuentes-reactjs).
+
+## 💼 Linkedin
+
+-  Enlace a mi perfil de [Linkedin](www.linkedin.com/in/máximo-fuentes-b74a092aa).
