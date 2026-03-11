@@ -3,12 +3,12 @@
 ## 🌍 Sobre mí
 
 - 📍 **Ubicación:** Mendoza, Argentina 🇦🇷
-- 🎂 **Edad:** 20 Años
+- 🎂 **Edad:** 21 Años
 - 🎓 **Estudios:**
 
    Licenciatura en Informática y Desarrollo de Software en la Universidad del Aconcagua, Mendoza. (2025 - Actualidad)
    
-   CoderHouse (Full Stack Developer 2024 - 2025)
+   CoderHouse (Full Stack Developer 2024 - 2026)
 
 ## 💻 Tecnologías
 
