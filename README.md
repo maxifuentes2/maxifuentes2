@@ -27,6 +27,8 @@
 
 - Curso de coderhouse de [React Js](https://github.com/maxifuentes2/proyecto-final-fuentes-reactjs).
 
+- [VNTG Hub](https://github.com/maxifuentes2/vntg-hub) — E-commerce de ropa vintage.
+
 ## 💼 Linkedin
 
 -  Enlace a mi perfil de [Linkedin](https://www.linkedin.com/in/m%C3%A1ximo-fuentes-b74a092aa/).
